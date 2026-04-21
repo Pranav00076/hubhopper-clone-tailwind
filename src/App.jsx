@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Example from './components/Hero'
-import Info from './components/info'
+import Info from './components/Info'
 
 import './App.css'
 
